@@ -11,7 +11,7 @@ TmpDir dir: C:/Program Files/Minecraft/tmp
 (Optional) Java Launcher hash: 
 Java Version: 
 x64: 0
-LauncherConfiguration from: http://launchermeta.mojang.com/mc/launcher.json
+LauncherConfiguration from: http://launchermeta.moja/launcher.json
 Downloaded config
 Native launcher is current
 Native launcher is current
